@@ -1,0 +1,3 @@
+python:a multi purpose programming language
+used in data science,ML and web development with django framework
+used by youtube,instagram,spotiy,dropbox and printrest

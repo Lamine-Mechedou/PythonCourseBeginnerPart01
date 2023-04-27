@@ -1,0 +1,9 @@
+names = ["John" , "Bob" , "Lam" , "Jakie" , "Fox" , "Rob"]
+names[0] = "Jon" #I change the spell of John
+print(names)
+print(names[0]) #print first element
+print(names[-1]) #prints the last element Rob
+print(names[-2]) #prints the second element from the end of the list
+print(names[0:3]) #print the first 3 elements excluding the last index:so prints index:0 1 2
+print(names) # the code before didnt change the original list
+
